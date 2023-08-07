@@ -2760,3 +2760,8 @@
 2022/03/14 21:47:50 [error] 177736#211436: *2 CreateFile() "D:\lesson\nginx-1.18.0/html/hmdp/js/axios.min.map" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /js/axios.min.map HTTP/1.1", host: "localhost:8080"
 2022/03/14 21:47:52 [error] 177736#211436: *3 CreateFile() "D:\lesson\nginx-1.18.0/html/hmdp/js/axios.min.map" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /js/axios.min.map HTTP/1.1", host: "localhost:8080"
 2022/03/14 21:48:30 [notice] 211132#211144: signal process started
+2023/08/07 10:23:44 [alert] 26784#18740: worker process 26424 exited with code C0000142
+2023/08/07 10:23:44 [alert] 26784#18740: could not respawn worker
+2023/08/07 11:01:37 [error] 14940#19700: *9 CreateFile() "D:\Java\graduationPro\hmdp\nginx-1.18.0/html/hmdp/rabbitmq/sendMsg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /rabbitmq/sendMsg HTTP/1.1", host: "localhost:8080"
+2023/08/07 11:06:31 [error] 14940#19700: *10 CreateFile() "D:\Java\graduationPro\hmdp\nginx-1.18.0/html/hmdp/rabbitmq/sendMsg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "POST /rabbitmq/sendMsg HTTP/1.1", host: "localhost:8080"
+2023/08/07 11:08:09 [notice] 4588#20184: signal process started
